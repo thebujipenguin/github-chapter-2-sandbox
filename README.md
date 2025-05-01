@@ -1,4 +1,1 @@
-# Git Practice
-
-Learning git commands
-* fun
+Hi there! 😀 05/01/2025
